@@ -1,0 +1,232 @@
+ img{
+ 	height: 80px;
+ 	border-radius: 5px;
+ }
+
+.ba{
+	width:1334px;
+	height:150px;
+	margin-right: 0px;
+   margin-left: 0px;
+
+}
+
+a:hover{
+	border-top: 10px solid #CC863B;
+	background-color:gray;
+}
+ 
+
+li{
+	list-style-type:none;
+	float:right;
+	margin:10px;
+	text-decoration: none;
+	font-size: 20px;
+ 
+	 
+}
+
+ body{
+ 	background-image: url(./images/bacck.jpg);
+ }
+ 
+ ul{
+	background-color:#25AAE1;
+	clear: both;
+	overflow: hidden;
+	margin: 0px;
+	height: 80px;
+}
+
+main{
+	 width: 1024px;
+	margin-left:auto;
+	margin-right:auto ; 
+	 height: 1200px;
+}
+
+aside{
+	float:right;
+	width:250px;
+	background-color: #F37620 ;
+	text-align: center;
+	height: 800px;
+	margin-top:45px;
+	border-radius:10px;
+}
+
+.A{
+    float:right;
+}
+
+.B{
+	 
+	 padding-left: 40px;
+}
+
+.second{
+    width:200px;
+    height:150px;
+    border-radius: 20px;
+     margin-left: 8px;
+     margin-right: 8px;
+}
+
+.P2{
+	height:400px;
+	width:700px;
+	box-shadow:3px 3px 3px black;
+	clear: both;
+	border: inset 2px black;
+	 
+}
+
+.P{
+
+   font-weight: bold;
+   font-size:35px;
+   text-align:center;
+   border: outset 2px lightblue;
+  background-color:beige;
+  color: #F37620 ;
+
+}
+
+.D{
+
+	font-weight: bold;
+	font-size:30px;
+	text-align:center;
+  border:outset 2px lightblue;
+   background-color:beige;
+   width: 500px;
+  margin-left: 100px;
+  color: #F37620 ;
+   	
+}
+
+.T{
+	color: #F37620 ;
+   font-weight: bold;
+	font-size:30px;
+	text-align:center;
+	 border:  outset 2px lightblue;
+	  background-color:beige;
+	  width: 500px;
+	  margin-left: 100px
+
+}
+
+footer{
+	height: 90px;
+	background-color: #F37620;
+	 }
+
+h5{
+	margin-top: 0px;
+	text-align: center;
+	padding-top: 20px;
+	font-size: 15px;
+}
+ 
+p{
+	font-size: 20px;
+	text-align: center;
+
+}
+
+#CONF{
+	width: 1300px;
+	height: 200px;
+	 
+}
+
+.conf{
+   width: 300px;
+   height: 200px;
+     box-shadow: 2px 2px 22px black;
+     margin:0px;
+}
+
+.conf2{
+      width: 400px;
+      height: 250px;
+      box-shadow: 2px 2px 2px black;
+      margin: 20px;
+}
+
+ fieldset{
+	  
+	 background-image: 
+	 width:1100px;
+	 border: none;
+}
+
+#cont1{
+	float: left;
+}
+
+#texte{
+	 float: right;
+}
+ 
+
+input{
+	width:250px;
+	height:35px;
+
+}
+
+label{
+	font-weight: bold;
+	font-size:25px;
+}
+a{
+	color: white;
+}
+
+.pro{
+	width:500px;
+	height: 300px;
+	 float: left;
+	 margin: 8px;
+}
+
+h4{
+   text-shadow:8px 8px 8px white;
+   font-size: 25px;
+   color:white;
+}
+
+#face{
+	width: 800px;
+	height: 120px;
+	margin-left: 100px;
+	border: solid 2px ;
+	background-color: #CC863B;
+}
+
+#pro{
+	height: 300px;
+}
+ 
+
+#contact{
+ text-align: center;
+	margin-top:100px;
+	width:1024px;
+	height:450px;
+	 background-color: burlywood;
+	}
+
+button{
+	height: 80px;
+	width:300px;
+	background-color:burlywood;
+	color:#F37620 ;
+	margin-left: 200px;
+	font-size: 20px;
+	font-weight: bold;
+	border-style:outset;
+}
